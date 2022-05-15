@@ -4,6 +4,7 @@ const GlobalStyles = createGlobalStyle`
   :root {
     --background: #F7F7FF;
     --background-secondary:#E8E8F0;
+    --background-purple: #820AD1;
     
     --text-color: #323232;
 
@@ -25,6 +26,10 @@ const GlobalStyles = createGlobalStyle`
     text-decoration: none;
 
     color: var(--text-color);
+  }
+
+  span, strong {
+    color: var(--background-purple);
   }
 `;
 
