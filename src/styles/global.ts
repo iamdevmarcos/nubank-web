@@ -20,6 +20,12 @@ const GlobalStyles = createGlobalStyle`
   body {
     font-family: 'Poppins', sans-serif;
   }
+
+  a {
+    text-decoration: none;
+
+    color: var(--text-color);
+  }
 `;
 
 export default GlobalStyles;

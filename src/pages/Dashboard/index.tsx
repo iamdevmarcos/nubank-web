@@ -1,12 +1,15 @@
-import AnimatedPage from "../../components/AnimatedPage";
-import { Link } from "react-router-dom";
+import * as S from "./styles";
 
-const Dashboard = () => (
-  <AnimatedPage>
-    <h1>homepage</h1>
+import { AnimatedPage, Header } from "../../components";
 
-    <Link to="/">voltar</Link>
-  </AnimatedPage>
-);
+const Dashboard = () => {
+  return (
+    <AnimatedPage>
+      <S.Container>
+        <Header />
+      </S.Container>
+    </AnimatedPage>
+  );
+};
 
 export default Dashboard;
