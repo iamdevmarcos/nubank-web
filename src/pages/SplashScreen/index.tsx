@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 import * as S from "./styles";
 import { AnimatePresence, motion } from "framer-motion";
@@ -17,6 +18,8 @@ const icon = {
 
 const SplashScreen = () => {
   const [showStartButton, setShowStartButton] = useState(false);
+
+  const navigate = useNavigate();
 
   return (
     <S.Container>
@@ -67,6 +70,7 @@ const SplashScreen = () => {
               whileTap={{ scale: 0.9 }}
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
+              onClick={() => navigate("/dashboard")}
             >
               Comecar
             </S.Start>

@@ -1,15 +1,22 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 
-import { SplashScreen } from "./pages";
+import { Dashboard, SplashScreen } from "./pages";
 
-const App = () => (
-  <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<SplashScreen />} />
+import { AnimatePresence } from "framer-motion";
 
-      <Route path="*" element={<h1>Not Found...</h1>} />
-    </Routes>
-  </BrowserRouter>
-);
+const App = () => {
+  const location = useLocation();
+
+  return (
+    <AnimatePresence exitBeforeEnter>
+      <Routes location={location} key={location.pathname}>
+        <Route path="/" element={<SplashScreen />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+
+        <Route path="*" element={<h1>Not Found...</h1>} />
+      </Routes>
+    </AnimatePresence>
+  );
+};
 
 export default App;
