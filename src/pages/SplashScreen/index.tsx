@@ -72,7 +72,7 @@ const SplashScreen = () => {
               animate={{ opacity: 1 }}
               onClick={() => navigate("/dashboard")}
             >
-              Comecar
+              Entrar na Dashboard
             </S.Start>
           )}
         </AnimatePresence>

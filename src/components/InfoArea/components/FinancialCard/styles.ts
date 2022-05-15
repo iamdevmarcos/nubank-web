@@ -39,4 +39,8 @@ export const Flex = styled.div`
   strong {
     font-size: 20px;
   }
+
+  .EyeIcon {
+    cursor: pointer;
+  }
 `;

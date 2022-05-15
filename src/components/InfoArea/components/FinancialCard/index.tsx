@@ -15,7 +15,10 @@ const FinancialCard = () => {
           {showWallet && <strong>R$ 150.356,99</strong>}
           {!showWallet && <strong>************</strong>}
         </div>
-        <div onClick={() => setShowWallet((prevState) => !prevState)}>
+        <div
+          onClick={() => setShowWallet((prevState) => !prevState)}
+          className="EyeIcon"
+        >
           {!showWallet && <EyeIcon />}
           {showWallet && <EyeSlashIcon />}
         </div>
