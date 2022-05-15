@@ -1,7 +1,5 @@
-const App = () => (
-  <div>
-    <h1>Nubank Web</h1>
-  </div>
-);
+import SplashScreen from "./pages/SplashScreen";
+
+const App = () => <SplashScreen />;
 
 export default App;
