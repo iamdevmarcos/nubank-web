@@ -1,7 +1,7 @@
 import * as S from "./styles";
 
 interface DiscountCardProps {
-  children: string;
+  children: React.ReactElement | string;
 }
 
 const DiscountCard = ({ children }: DiscountCardProps) => (

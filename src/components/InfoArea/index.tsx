@@ -9,11 +9,17 @@ const InfoArea = () => (
       <FinancialCard />
 
       <DiscountCard>
-        Veja os descontos que preparamos para voce no Shopping Nubank
+        <p>
+          Veja os descontos que preparamos para voce no{" "}
+          <span>Shopping Nubank</span>
+        </p>
       </DiscountCard>
 
       <DiscountCard>
-        25% de desconto em empréstimo com portabilidade de salário
+        <p>
+          <span>25% de desconto</span> em empréstimo com portabilidade de
+          salário
+        </p>
       </DiscountCard>
     </S.Flex>
   </S.Container>
