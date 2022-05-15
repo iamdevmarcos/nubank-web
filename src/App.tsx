@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import SplashScreen from "./pages/SplashScreen";
+import { SplashScreen } from "./pages";
 
 const App = () => (
   <BrowserRouter>
