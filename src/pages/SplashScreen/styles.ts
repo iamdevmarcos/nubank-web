@@ -31,7 +31,7 @@ export const Start = styled(motion.div)`
   justify-content: center;
 
   font-size: 18px;
-  font-weight: bold;
+  font-weight: normal;
 
   border-radius: 22px;
   cursor: pointer;
