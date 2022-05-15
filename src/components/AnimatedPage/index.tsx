@@ -7,7 +7,7 @@ interface AnimatedPageProps {
 const animations = {
   initial: { opacity: 0 },
   animate: { opacity: 1 },
-  exit: { opacity: 0 },
+  exit: { opacity: 0, x: -100 },
 };
 
 const AnimatedPage = ({ children }: AnimatedPageProps) => (
