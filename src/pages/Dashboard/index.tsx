@@ -9,6 +9,474 @@ const Dashboard = () => {
         <Header />
 
         <InfoArea />
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
+
+        <S.CardContainer>
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+
+          <S.Card>
+            <S.IconArea>---</S.IconArea>
+            <S.CardName>Area Pix</S.CardName>
+          </S.Card>
+        </S.CardContainer>
       </S.Container>
     </AnimatedPage>
   );

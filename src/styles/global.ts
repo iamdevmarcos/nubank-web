@@ -31,6 +31,26 @@ const GlobalStyles = createGlobalStyle`
   span, strong {
     color: var(--background-purple);
   }
+
+  * Works on Firefox */ * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--background-purple) var(--background);
+  }
+
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: var(--background);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: var(--background-purple);
+    border-radius: 20px;
+    border: 4px solid var(--background);
+  }
 `;
 
 export default GlobalStyles;
