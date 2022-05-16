@@ -23,7 +23,7 @@ const AboutTemplate = () => {
             desenvolvi usando <span>React</span> e{" "}
             <span>Styled Components</span>, e mais algumas coisinhas.
             <br />
-            <br /> Além de ser um projeto open source, eu também gosto muito
+            <br /> Além de ser um projeto open source, eu também gosto muito de
             criar <span>projetos pessoais</span>, você pode ver alguns deles no
             meu{" "}
             <a
