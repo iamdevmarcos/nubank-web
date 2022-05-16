@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { motion } from "framer-motion";
 
 export const Container = styled.div`
   background: var(--background-purple);
@@ -10,7 +11,7 @@ export const Container = styled.div`
   justify-content: flex-start;
 `;
 
-export const Flex = styled.div`
+export const Flex = styled(motion.div)`
   display: flex;
   align-items: center;
   justify-content: flex-start;
