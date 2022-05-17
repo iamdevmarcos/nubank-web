@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => (
   <S.Container>
-    <S.LogoArea initial={{ pathLength: 0 }} animate={{ pathLength: 1 }}>
+    <S.LogoArea>
       <NubankLogo />
     </S.LogoArea>
 
