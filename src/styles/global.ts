@@ -34,22 +34,22 @@ const GlobalStyles = createGlobalStyle`
 
   * Works on Firefox */ * {
     scrollbar-width: thin;
-    scrollbar-color: var(--background-purple) var(--background);
+    scrollbar-color: var(--background-purple) var(--background-secondary);
   }
 
   /* Works on Chrome, Edge, and Safari */
   *::-webkit-scrollbar {
-    width: 5px;
+    width: 12px;
   }
 
   *::-webkit-scrollbar-track {
-    background: var(--background);
+    background: var(--background-secondary);
   }
 
   *::-webkit-scrollbar-thumb {
     background-color: var(--background-purple);
     border-radius: 20px;
-    border: 4px solid var(--background);
+    border: 4px solid var(--background-secondary);
   }
 `;
 
