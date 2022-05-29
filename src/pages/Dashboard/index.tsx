@@ -1,7 +1,13 @@
 import * as S from "./styles";
 import { motion } from "framer-motion";
 
-import { AnimatedPage, Card, Header, InfoArea } from "../../components";
+import {
+  AnimatedPage,
+  Card,
+  Header,
+  InfoArea,
+  Sidebar,
+} from "../../components";
 
 import mock from "./mock";
 
@@ -24,7 +30,6 @@ const Dashboard = () => {
     <AnimatedPage>
       <S.Container>
         <Header />
-
         <InfoArea />
 
         <S.CardContainer variants={parent} initial="hidden" animate="show">
@@ -34,6 +39,8 @@ const Dashboard = () => {
             </motion.div>
           ))}
         </S.CardContainer>
+
+        <Sidebar />
       </S.Container>
     </AnimatedPage>
   );
