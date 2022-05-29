@@ -1,7 +1,9 @@
+import * as S from "./styles";
+
 const Sidebar = () => (
-  <div>
-    <h1>Menu</h1>
-  </div>
+  <S.Wrapper>
+    <S.Container>....</S.Container>
+  </S.Wrapper>
 );
 
 export default Sidebar;
