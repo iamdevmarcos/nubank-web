@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
 `;
 
 export const Container = styled.div`
-  background-color: var(--background);
+  background-color: #fff;
   color: var(--text-color);
 
   width: 350px;
