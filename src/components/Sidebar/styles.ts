@@ -13,10 +13,18 @@ export const Container = styled.div`
   color: var(--text-color);
 
   width: 350px;
-  height: 615px;
+  height: 100%;
 
-  padding: 50px;
+  padding: 40px;
 
   border-radius: 10px;
   box-shadow: 0px 0px 23px -1px rgba(0, 0, 0, 0.1);
+`;
+
+export const SidebarContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 `;
